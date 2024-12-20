@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @binzhango
+- 👋 Hi, I’m @binzhango and [my blog](https://binzhango.github.io/)
 - 👀 I’m interested in ~Big Data~, LLM, ML.
 - 🌱 ~I’m currently learning K8s and Airflow~
 - 💞️ ~I’m looking to collaborate on k8s and docker~
