@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @binzhango and [my blog](https://binzhango.github.io/)
 - 👀 I’m interested in ~Big Data~, LLM, ML.
-- 📫 How to reach me zhangbinengr@hotmail.com
+- 📫 How to reach me zhangengr@hotmail.com
 - 🤗 [HuggingFace](https://huggingface.co/binzhango)
 <!---
 binzhango/binzhango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
